@@ -1,0 +1,12 @@
+name: "Demostack"
+description: "Demostack is an interactive demo platform for creating sandboxed product replicas and guided sales demos. It is aimed at sales and revenue teams needing controlled demo environments. The product is sold through enterprise agreements."
+source_url: "https://demostack.com/"
+category: "Interactive Demos"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "interactive-demo"
+icon_url: "https://icons.duckduckgo.com/ip3/demostack.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://demostack.com/>\n"
+updated_at: "2026-11-21 04:40"

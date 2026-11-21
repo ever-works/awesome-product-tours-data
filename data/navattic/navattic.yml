@@ -1,0 +1,12 @@
+name: "Navattic"
+description: "Navattic is an interactive demo platform for creating clickable product walkthroughs without code. Marketing and sales teams use it to embed demos on websites and share them with prospects. The service is offered through paid plans."
+source_url: "https://navattic.com/"
+category: "Interactive Demos"
+tags:
+  - "paid"
+  - "no-code"
+  - "api"
+  - "interactive-demo"
+icon_url: "https://icons.duckduckgo.com/ip3/navattic.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://navattic.com/>\n"
+updated_at: "2026-11-21 04:40"

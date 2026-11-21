@@ -1,0 +1,12 @@
+name: "Intro.js"
+description: "Intro.js is an open-source JavaScript library for creating step-by-step introductions and product tours on websites. Developers can self-host and customize the tours using CSS and JavaScript. It is released under the MIT license."
+source_url: "https://introjs.com/"
+category: "Open-Source Tour Libraries"
+tags:
+  - "open-source"
+  - "mit"
+  - "javascript"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/introjs.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://introjs.com/>\n- Repository: <https://github.com/usablica/intro.js>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 04:40"

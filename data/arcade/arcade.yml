@@ -1,0 +1,12 @@
+name: "Arcade"
+description: "Arcade is an interactive demo platform that captures product screens and turns them into guided walkthroughs. It includes AI-powered features for editing and voiceover generation. Paid and free plans are available."
+source_url: "https://www.arcade.software/"
+category: "Interactive Demos"
+tags:
+  - "freemium"
+  - "paid"
+  - "ai-powered"
+  - "no-code"
+icon_url: "https://icons.duckduckgo.com/ip3/www.arcade.software.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.arcade.software/>\n"
+updated_at: "2026-11-21 04:40"

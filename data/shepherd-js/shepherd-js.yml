@@ -1,0 +1,12 @@
+name: "Shepherd.js"
+description: "Shepherd.js is an open-source library for building product tours using Tether for positioning. It is framework-agnostic and works with vanilla JavaScript or modern frontend frameworks. The project is MIT licensed."
+source_url: "https://shepherdjs.dev/"
+category: "Open-Source Tour Libraries"
+tags:
+  - "open-source"
+  - "mit"
+  - "javascript"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/shepherdjs.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://shepherdjs.dev/>\n- Repository: <https://github.com/shipshapeio/shepherd>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 04:40"

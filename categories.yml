@@ -1,0 +1,12 @@
+- id: onboarding-and-product-tour-saas
+  name: "Onboarding & Product Tour SaaS"
+- id: digital-adoption-platforms
+  name: "Digital Adoption Platforms"
+- id: open-source-tour-libraries
+  name: "Open-Source Tour Libraries"
+- id: interactive-demos
+  name: "Interactive Demos"
+- id: checklists-and-tooltips
+  name: "Checklists & Tooltips"
+- id: in-app-resource-centers
+  name: "In-App Resource Centers"

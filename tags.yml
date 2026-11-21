@@ -1,0 +1,36 @@
+- id: paid
+  name: "Paid"
+- id: no-code
+  name: "No-Code"
+- id: api
+  name: "API"
+- id: user-onboarding
+  name: "User Onboarding"
+- id: in-app-messaging
+  name: "In-App Messaging"
+- id: checklists
+  name: "Checklists"
+- id: freemium
+  name: "Freemium"
+- id: enterprise
+  name: "Enterprise"
+- id: product-analytics
+  name: "Product Analytics"
+- id: digital-adoption
+  name: "Digital Adoption"
+- id: open-source
+  name: "Open Source"
+- id: mit
+  name: "MIT"
+- id: javascript
+  name: "JavaScript"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: bootstrap
+  name: "Bootstrap"
+- id: interactive-demo
+  name: "Interactive Demo"
+- id: ai-powered
+  name: "AI-Powered"
+- id: resource-center
+  name: "Resource Center"

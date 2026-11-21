@@ -1,0 +1,13 @@
+name: "CommandBar"
+description: "CommandBar is an in-app user assistance platform offering searchable resource centers, checklists, and tooltips. It uses AI to surface relevant help content within web applications. Paid and free plans are available."
+source_url: "https://www.commandbar.com/"
+category: "In-App Resource Centers"
+tags:
+  - "freemium"
+  - "paid"
+  - "ai-powered"
+  - "api"
+  - "resource-center"
+icon_url: "https://icons.duckduckgo.com/ip3/www.commandbar.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.commandbar.com/>\n"
+updated_at: "2026-11-21 04:40"

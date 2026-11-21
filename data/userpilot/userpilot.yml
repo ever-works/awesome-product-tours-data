@@ -1,0 +1,12 @@
+name: "Userpilot"
+description: "Userpilot provides product adoption tools including in-app flows, tooltips, and user segmentation for SaaS teams. It enables code-free creation of onboarding experiences and collects user feedback. The service is offered on a paid subscription basis."
+source_url: "https://userpilot.com/"
+category: "Onboarding & Product Tour SaaS"
+tags:
+  - "paid"
+  - "no-code"
+  - "api"
+  - "user-onboarding"
+icon_url: "https://icons.duckduckgo.com/ip3/userpilot.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://userpilot.com/>\n"
+updated_at: "2026-11-21 04:40"

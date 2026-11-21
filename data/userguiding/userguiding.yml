@@ -1,0 +1,12 @@
+name: "UserGuiding"
+description: "UserGuiding offers a no-code builder for product tours, user onboarding checklists, and NPS surveys. It is designed for SaaS companies to improve user activation and reduce churn. The platform is available through paid plans."
+source_url: "https://userguiding.com/"
+category: "Onboarding & Product Tour SaaS"
+tags:
+  - "paid"
+  - "no-code"
+  - "api"
+  - "checklists"
+icon_url: "https://icons.duckduckgo.com/ip3/userguiding.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://userguiding.com/>\n"
+updated_at: "2026-11-21 04:40"

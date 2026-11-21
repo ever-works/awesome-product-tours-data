@@ -1,0 +1,12 @@
+name: "Intercom"
+description: "Intercom is a customer communications platform that includes in-app messaging, product tours, and a help center. It enables support and product teams to deliver in-app resource centers and targeted announcements. Pricing is paid with tiered plans."
+source_url: "https://www.intercom.com/"
+category: "In-App Resource Centers"
+tags:
+  - "paid"
+  - "api"
+  - "in-app-messaging"
+  - "resource-center"
+icon_url: "https://icons.duckduckgo.com/ip3/www.intercom.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.intercom.com/>\n"
+updated_at: "2026-11-21 04:40"

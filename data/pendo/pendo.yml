@@ -1,0 +1,12 @@
+name: "Pendo"
+description: "Pendo combines product analytics with in-app guides, walkthroughs, and user feedback collection. It supports product teams in understanding usage and driving adoption through targeted messaging. A free plan is available alongside paid tiers."
+source_url: "https://www.pendo.io/"
+category: "Digital Adoption Platforms"
+tags:
+  - "freemium"
+  - "enterprise"
+  - "api"
+  - "product-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.pendo.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.pendo.io/>\n"
+updated_at: "2026-11-21 04:40"

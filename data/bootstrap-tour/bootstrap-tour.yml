@@ -1,0 +1,13 @@
+name: "Bootstrap Tour"
+description: "Bootstrap Tour is an open-source library for building quick and easy product tours with Bootstrap popovers. It is designed for websites using Bootstrap and can be self-hosted. The project is licensed under MIT."
+source_url: "https://github.com/sorich87/bootstrap-tour"
+category: "Open-Source Tour Libraries"
+tags:
+  - "open-source"
+  - "mit"
+  - "javascript"
+  - "bootstrap"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/sorich87/bootstrap-tour>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 04:40"
